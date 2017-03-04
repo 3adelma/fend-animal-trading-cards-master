@@ -1,0 +1,35 @@
+/* add your CSS here */
+
+.container {
+	border: 2px solid #bdbdbd;
+	width: 370px;
+	padding-left: 5px;
+	box-shadow: 10px 10px 5px #888888;
+}
+
+
+.image-style{
+	padding-left: 30px
+	/*border-style: dotted;*/
+}
+
+.border-group{
+
+	border: 2px solid #bdbdbd;
+	padding: 10px;
+	margin-left: 30px;
+	margin-right: 30px;  
+    width: 276px;
+    margin-bottom: 30px; 
+}
+
+.list-style{
+	padding: 0px;
+	list-style: none;
+}
+
+.label{
+	font-weight: bold;
+}
+
+
