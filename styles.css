@@ -4,17 +4,14 @@
 	border: 2px solid #bdbdbd;
 	width: 370px;
 	padding-left: 5px;
-	box-shadow: 10px 10px 5px #888888;
+	box-shadow: 10px 10px 5px #888;
 }
-
 
 .image-style{
 	padding-left: 30px
-	/*border-style: dotted;*/
 }
 
 .border-group{
-
 	border: 2px solid #bdbdbd;
 	padding: 10px;
 	margin-left: 30px;
@@ -23,8 +20,11 @@
     margin-bottom: 30px; 
 }
 
+.prograph-style{
+	font-style: italic ;
+}
+
 .list-style{
-	padding: 0px;
 	list-style: none;
 }
 
